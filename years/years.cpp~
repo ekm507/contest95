@@ -9,7 +9,7 @@ int main()
 	cin>>a;
 	for(i=0; i<a; i++)
 	{
-		k=rand()%7+1;
+		k=rand()%7;
 		q=rand()%366;
 		cout<<k<<" "<<q<<" ";
 		l=(q+k-1)%7;
