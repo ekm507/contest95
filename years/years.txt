@@ -1,3 +1,6 @@
+usage:
+first day of the year--day given--result
+
 2 298 5
 3 115 5
 2 49 1
